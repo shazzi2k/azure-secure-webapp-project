@@ -3,7 +3,7 @@ Secure Azure web application environment demonstrating Managed Identity, Azure K
 
 ## Overview
 
--Azure Secure Web Application Project
+Azure Secure Web Application Project
 This project demonstrates the deployment and configuration of a secure Azure web application environment using Azure App Service, Azure Key Vault, Managed Identity, Role-Based Access Control (RBAC), Log Analytics and Microsoft Defender for Cloud.
 The objective was to showcase practical Azure administration and security skills aligned with the AZ-104 and AZ-500 certification paths. The project focuses on secure secret management, least-privilege access control, monitoring, auditing and security posture assessment.
 Key security features include Managed Identity authentication, Azure Key Vault RBAC permissions, centralized logging through Log Analytics and security recommendations provided by Microsoft Defender for Cloud.
@@ -86,3 +86,9 @@ App Service deployment in UK South failed due to subscription quota restrictions
 - Azure troubleshooting and remediation
 
 ## Future Improvements
+
+- Deploy infrastructure using Bicep templates
+- Integrate Azure Application Insights
+- Configure advanced alerting and monitoring
+- Implement App Service VNet Integration
+- Secure Key Vault using Private Endpoints
