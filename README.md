@@ -12,7 +12,7 @@ Key security features include Managed Identity authentication, Azure Key Vault R
 
 
 ## Architecture
-
+![Architecture  diagram](AZURE-securewebapp/architecture/architecture-diagram.png)
 ## Technologies Used
 
 ## Security Features
