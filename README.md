@@ -59,7 +59,7 @@ App Service deployment in UK South failed due to subscription quota restrictions
 ### Azure Key Vault
 ![Key Vault Overview](AZURE-securewebapp/02-keyvault-overview.png)
 ### Key Vault RBAC Role Assignment
-![Key Vault RBAC](AZURE-securewebapp/03-keyvault-rbac-role.png)
+![Key Vault RBAC](AZURE-securewebapp/03-keyvault-RBACrole.png)
 ### Key Vault Secret
 ![Key Vault Secret](AZURE-securewebapp/04-keyvault-secret.png)
 ### Managed Identity
