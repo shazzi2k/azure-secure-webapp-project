@@ -63,13 +63,13 @@ App Service deployment in UK South failed due to subscription quota restrictions
 ### Key Vault Secret
 ![Key Vault Secret](AZURE-securewebapp/04-keyvault-secret.png)
 ### Managed Identity
-![Managed Identity](AZURE-securewebapp/07-managed-identity-enabled.png)
+![Managed Identity](AZURE-securewebapp/06-managed-identity-enabled.png)
 ### Managed Identity Key Vault Access
-![Managed Identity Access](AZURE-securewebapp/08-managed-identity-keyvault-access.png)
+![Managed Identity Access](AZURE-securewebapp/07-managed-identity-KVaccess.png)
 ### Defender for Cloud Secure Score
-![Defender Secure Score](AZURE-securewebapp/11-defender-secure-score.png)
+![Defender Secure Score](AZURE-securewebapp/10-defender-secure-score.png)
 ### Defender Recommendations
-![Defender Recommendations](AZURE-securewebapp/12-defender-recommendations.png)
+![Defender Recommendations](AZURE-securewebapp/11-defender-recommendations.png)
 
 
 ## Skills Demonstrated
